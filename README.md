@@ -5,7 +5,20 @@
 
 - 🔭 I’m currently working on [Whalez Digital Teknologi](https://whalez.tech)
 
-- 🌱 I’m currently learning **Flutter, React, VueJS, NuxtJS, NextJS, React Native, Android Native ( Kotlin ), Laravel, GoLang, HapiJS, ExpressJS**
+- 🌱 I’m currently learning
+  
+  1. **Flutter**
+  2. **React**
+  3. **VueJS**
+  4. **NuxtJS**
+  5. **NextJS**
+  6. **React Native**
+  7. **Android Native ( Kotlin )**
+  8. **Laravel**
+  9. **GoLang**
+  10. **HapiJS**
+  11. **ExpressJS**
+
 
 - 👨‍💻 All of my projects are available at [dheariarachman.my.id](dheariarachman.my.id)
 

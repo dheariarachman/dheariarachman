@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheariarachman&label=Profile%20views&color=0e75b6&style=flat" alt="dheariarachman" /> </p>
 
-- 🔭 I’m currently working on [Whalez Digital Teknologi](https://whalez.tech)
+- 🔭 I’m currently working on [Logique Digital Indonesia](https://logique.co.id)
 
 - 🌱 I’m currently learning
   

@@ -7,17 +7,11 @@
 
 - 🌱 I’m currently learning
   
-  1. **Flutter**
-  2. **React**
-  3. **VueJS**
-  4. **NuxtJS**
-  5. **NextJS**
-  6. **React Native**
-  7. **Android Native ( Kotlin )**
-  8. **Laravel**
-  9. **GoLang**
-  10. **HapiJS**
-  11. **ExpressJS**
+  1. **React**
+  2. **NextJS**
+  3. **React Native**
+  4. **GoLang**
+  5. **ExpressJS**
 
 
 - 👨‍💻 All of my projects are available at [dheariarachman.my.id](dheariarachman.my.id)
